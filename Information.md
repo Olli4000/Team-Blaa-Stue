@@ -3,16 +3,16 @@
 26 opgaver i alt
 
 Benny: 
-    * Brugertesten (alpha og beta) ~ (3 uger / 111 timer)
+    * Brugertesten (alpha og beta) ~ (3 uger / 121 timer)
     
 Kjeld:
-    * Fri 14 dage i starten af November (259 timer) ~ 8 opgaver
+    * Fri 14 dage i starten af November (269 timer) ~ 8 opgaver
     
 Egon: 
-    * 25 timer og ferie i uge 42 (200 timer) ~ 6 opgaver 
+    * 25 timer og ferie i uge 42 (210 timer) ~ 6 opgaver 
     
 Protagonist: 
-    * (111 timer) ~ 
+    * (121 timer) ~ 
     
 # Hvad er de individulle gode til??
 
