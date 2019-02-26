@@ -11,24 +11,27 @@ Kjeld:
 Egon: 
     * 25 timer og ferie i uge 42 (210 timer) ~ 6 opgaver 
     
-Protagonist: 
+Protagonist (mig): 
     * (121 timer) ~ 
     
 # Hvad er de individulle gode til??
 
 Benny: 
-    * Kode [Backend]
+    * Kode ~ Red
     
 Kjeld:
-     * Design og useability [Frontend]
+     * Design og useability ~ Green
     
 Egon: 
-     * Kode og Design [Frontend]
+     * Kode og Design ~ Cyan
     
-Protagonist: 
-    * 
+Protagonist (mig): 
+    * Planlægning og Kode ~ Pink
     
+Alpha & Beta: 
+    * Black
     
+## Tidsrum for Opgaverne
 ---
 * Alpha (3 dage)
 
